@@ -7,6 +7,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.cv {
+    text-decoration: none;
+    color: #f3f5f8;
+}
+
 body {
     overflow: hidden;
 }
@@ -146,6 +151,13 @@ b {
     background-color: #2c75e2;
 }
 
+#es{
+    display: block;
+    font-size: 4.1em; /* 7em originalmente */
+    font-weight: 900;
+    color: #3d535f;
+}
+
 h1 {
     display: block;
     font-size: 5em; /* 7em originalmente */
@@ -155,7 +167,6 @@ h1 {
 
 .multitext {
     color: #2c75e2;
-    text-transform: capitalize;
 }
 
 p {
